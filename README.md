@@ -1,4 +1,3 @@
-
 # Vor7reX: Deep Facial Recognition System <a href="https://pokemondb.net/pokedex/reshiram"><img src="https://img.pokemondb.net/sprites/black-white/anim/shiny/reshiram.gif" alt="reshiram" height="50"></a><a href="https://pokemondb.net/pokedex/zekrom"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/zekrom.gif" alt="Zekrom" height="50"></a>
 
 **Vor7reX** is a multiclass facial recognition system based on **Convolutional Neural Networks (CNNs)**. The project implements an end-to-end Computer Vision pipeline: from biometric data acquisition and pre-processing, to statistical validation, up to real-time inference.
